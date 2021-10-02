@@ -1,0 +1,9 @@
+Contact is a text-based story that gets its inspiration from the skit "White
+People - Scene" from Logic's "The Increduble True Story" album and lore from
+the videogame series "Mass Effect." The classic WASD controls are used to
+explore the levels. Q can be used at any time to quit the game. The player
+takes the roll of a communications officer from the Alliance serving at the
+spaceship SSV Aquarius III. One day, you recieve a distress signal to your
+communications console frome a sole survivor in another ship. Will you be able
+to get him to safety or will he perish to an unknown beast? His life is on your
+hands...

@@ -1,0 +1,26 @@
+C: Officer __________, I just entered a main room... and there is one of them
+   here! I can't let it see me if I want to survive this!
+
+U: Can you describe it? How does it look like?
+
+C: Tall. Grey skin. Humanoid form. It has a hump but I'm not sure if it is 
+   because of its armor or if it is biological. Looks a lot like a bird. It
+   actually looks a lot like a human with bird-like traits.
+
+U: Does it look hostile?
+
+C: It seems like it's patrolling but I don't think it knows that I'm here.
+
+U: Alright try to move slowly and quietly to where I tell you to go.
+
+<<<MAP SIGNAL LOST>>> <<<MAP SIGNAL LOSS>>>
+
+U: Uhhhh, we may have a problem here. I don't have the scans of the room
+   anymore. I lost signal.
+
+C: WHAT?! WHAT AM I SUPPOSED TO DO?! I DON'T WANT TO DIE!
+
+U: Stay calm, you are going to describe me your surroundings and I'll tell you
+   where to go.
+
+C: (sigh) ...okay... here we go... please, don't let me die...

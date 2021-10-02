@@ -1,0 +1,54 @@
+C: <<buzz>> ... Mayday, mayday. This is C... <<buzz>> ... from the SSV Aquarius
+   I. The ship is in ...<<buzz>>... unknown specimen ...<<buzz>>... heavy
+   casualties ...<<buzz>>... please respond.
+
+U: This is Officer __________ from the SSV Aquarius III. I've received your
+   distress signal.
+
+C: Oh, thank God. You have to help me. There are some creatures outside.
+   I don't know what they are but it has killed a lot of people. I'm trapped
+   in Dorm 152 all by myself.
+
+U: Okay, don't worry. Aquarius III will send some people to get you back to
+   safety.
+
+C: NO! No... Don't send anyone. These... things... will slaughter everyone on
+   their way. They killed the toughest soldiers on the ship like they were
+   nothing. Besides, I don't think announcing what happened here to people is a
+   good idea.
+
+U: Why is it not a good idea to inform other people?
+
+C: It's too risky. As I said, this creatures mean business. If you send
+   someone, they are not coming back.
+
+U: Okay, I'll help you from here. What do I have to do?
+
+C: Thank you so much! There is still one escape pod left. I can see it from the
+   window here. I don't really know the way there though. I just need you to
+   guide me there.
+
+U: Alright. I need to download the map and access the security cameras of your
+   ship first.
+
+#ask for access to those things.
+
+U: I couldn't get acccess to the cameras, so you will have to tell me what you
+   see so I can guide you.
+
+C: Okay, okay. I can do that.
+
+U: Good. Let's get you out of that room first.
+
+#after opening the door of the room
+
+C: I'm out. I'm in a hallway. Where to now? Left or right?
+
+#after deciding which way to go.
+
+#If going left
+
+#If going right
+
+D: Thanks for playing the first version. The full version is currently under
+   creation. Here's a potato -> 0 <- (lets pretend its a potato)

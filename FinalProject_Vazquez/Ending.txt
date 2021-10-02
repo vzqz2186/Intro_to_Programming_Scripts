@@ -1,0 +1,17 @@
+C: The door has opened, and the last escape pod is still here! It looks like it
+   was untouched by these creatures.
+
+U: Great. Get in there before he comes back and sees you!
+
+C: I'm on it already. Thank you so much! I will go to one of our colonies and
+   start another life. One day I will <<buzz>>
+
+U: Sir?
+
+U: SIR?!
+
+C: YOU HAVE TO DESTROY THE SHIP NOW. THEY SAW ME <<buzz>>EY HAVE YOUR
+   COORDINATES. THEY ARE GOING!!! <<SIGNAL LOST>>
+
+<Signal was lost with the Aquarius I. A few moments later, the Aquarius III
+ captures readings of a unidentified ship approaching towards them.>
